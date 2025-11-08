@@ -7,7 +7,7 @@ require './templates/header.php';
     <section class="shop-intro">
         <h1>Shop the latest fashion trends</h1>
         <p>Step into the world of fresh fits, trending styles, and bold confidence.</p>
-</section>
+    </section>
 
 <section class="product-grid">
     <article class="product-card">
@@ -60,3 +60,4 @@ require './templates/header.php';
 </section>
 </main>
 <?php require './templates/footer.php'; ?>
+
